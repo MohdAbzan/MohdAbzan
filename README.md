@@ -1,9 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Abzan
-
-### Administrative & Customer Service Professional at dnata (Emirates Group)  
-📍 Dubai International Airport, UAE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=MOHAMMED%20ABZAN&fontSize=40&fontColor=38BDF8&fontAlignY=35&animation=fadeIn&desc=Administrative%20Professional%20@%20dnata%20(Emirates%20Group)%20•%20DXB&descSize=15&descColor=94A3B8" width="100%" />
 
 <br>
 
@@ -46,5 +43,11 @@
 ---
 
 <div align="center">
-  <em>"Turning complex operations and logistics into seamless order."</em>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Turning%20Complex%20Operations%20Into%20Seamless%20Order&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" />
 </div>
