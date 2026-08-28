@@ -36,15 +36,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Professional Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=transparent&hide_border=true&text_color=38bdf8&icon_color=38bdf8" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=transparent&hide_border=true&text_color=38bdf8&title_color=38bdf8" width="48%"/>
-</div>
-
----
-
-<div align="center">
-  <em>"Turning complex operations and logistics into seamless order."</em>
-</div>
+```json
+{
+  "focus": "Aviation Logistics & Data Analytics",
+  "tools": ["Power BI", "Excel", "AI Prompt Engineering"],
+  "location": "Dubai, UAE",
+  "status": "Available for Executive Connections"
+}
