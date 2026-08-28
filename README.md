@@ -5,11 +5,6 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitAnimations/Dragon.gif" width="280" alt="Animated Dragon">
-
-<br>
-<br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&height=50&lines=Bridging+Business+%26+Data+Analytics;Exploring+AI+%26+Smart+Workflows;Turning+Data+Into+Smart+Insights" alt="Typing SVG" />
 
 <br>
