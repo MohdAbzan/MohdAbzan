@@ -5,9 +5,11 @@
 ### Administrative & Customer Service Professional at dnata (Emirates Group)  
 📍 Dubai International Airport, UAE
 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdabzan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:mohdabzan2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=safari&logoColor=black)](https://mohdabzan.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdabzan2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-059669?style=for-the-badge&logo=safari&logoColor=white)](https://mohdabzan.github.io/myportfolio/)
 
 </div>
 
