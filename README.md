@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHAMMED%20ABZAN&fontSize=42&fontColor=38BDF8&fontAlignY=35&animation=fadeIn&desc=Administrative%20Professional%20@%20dnata%20(Emirates%20Group)%20•%20DXB&descSize=15&descColor=94A3B8" width="100%" />
+# Hey there, I'm Mohammed Abzan 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Building+Digital+Tools+%26+Web-Apps;Exploring+Data+Analytics+%26+AI;Always+Coding+%26+Creating" alt="Typing SVG" />
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-059669?style=for-the-badge&logo=safari&logoColor=white)](https://mohdabzan.github.io/myportfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdabzan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdabzan2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-059669?style=for-the-badge&logo=safari&logoColor=white)](https://mohdabzan.github.io/myportfolio/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohdAbzan&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
@@ -16,53 +18,80 @@
 
 ---
 
-### 💼 About Me
-
-* 🏢 **Current Role:** Administrative Assistant at **dnata (Emirates Group)**, Dubai International Airport.
-* ✈️ **Experience:** Over two years managing cargo operations, document control, compliance, and cross-functional support in a fast-paced aviation environment.
-* 🎓 **Education:** Pursuing an **MBA in Business Analytics** (building upon a B.Com in Business Management from Mangalore University).
-* 🎯 **Current Focus:** Expanding expertise in data-driven decision-making, operational intelligence, and advanced business analytics.
+### 🚀 Quick Navigation
+<div align="center">
+  <a href="#-what-im-doing">What I'm Doing</a> • 
+  <a href="#️-tech--tools-arsenal">Tech Stack</a> • 
+  <a href="#-featured-projects">Projects</a> • 
+  <a href="#-github-stats--trophies">Stats</a> • 
+  <a href="#-developer-setup">Setup</a>
+</div>
 
 ---
 
-### 🛠️ Software & Technical Toolset
+### 💻 What I'm Doing
+
+* 🚀 Building and updating web applications, projects, and personal repositories.
+* 📊 Exploring data analytics tools like **Power BI** and advanced automation workflows.
+* 🤖 Experimenting with **AI Prompt Engineering** and intelligent prompt frameworks.
+* ☕ Always tinkering with code, scripting, and new tech concepts.
+
+---
+
+### ⚡ Tech & Tools Arsenal
 
 <div align="center">
 
-| Category | Tools & Technologies |
+| Category | Technologies & Stack |
 | :--- | :--- |
-| **Data & Intelligence** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> |
-| **Artificial Intelligence** | <img src="https://img.shields.io/badge/AI_Prompt_Engineering-10B981?style=flat-square&logo=openai&logoColor=white" /> *(Dubai Future Foundation Certified)* |
-| **Enterprise & Logistics** | <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/One_Cargo-0284C7?style=flat-square&logo=airbus&logoColor=white" /> <img src="https://img.shields.io/badge/Calogi_Platform-059669?style=flat-square&logo=boeing&logoColor=white" /> |
+| **Languages & Web** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" /> |
+| **Data & Tools** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |
+| **AI & Workflow** | <img src="https://img.shields.io/badge/OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Prompt_Engineering-38BDF8?style=flat-square&logo=databricks&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 🚀 Core Operations & Competencies
+### 📁 Featured Projects
 
-* 📋 **Document Control & Archiving:** Maintaining compliance-grade filing systems and audit-ready operational logs.
-* 🌐 **Customer & Airline Support:** Managing import/export cargo queries for international carriers and freight forwarders.
-* 🌱 **Sustainability Coordination:** Supporting environmental initiatives and reporting requirements within aviation logistics.
-* 🌍 **Multilingual Communication:** Fluent in **English**, **Hindi**, **Urdu**, **Kannada** (Native), and **Tulu** (Native).
+> Check out my pinned repositories or visit my [Live Portfolio](https://mohdabzan.github.io/myportfolio/) to explore web apps, UI builds, and development experiments.
 
 ---
 
-### 🏆 Key Certifications
+### 📊 GitHub Stats & Trophies
 
-* **One Million Prompters AI Prompt Engineering** — Dubai Future Foundation
-* **Emirates Aviation Dangerous Goods Handling** — dnata
-* **Cargo Product Knowledge & Documentation** — dnata
-* **Fundamentals of Cargo Operations (Export)** — dnata
-* **dnata Customer Service Excellence** — dnata
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=38bdf8&icon_color=38bdf8&ring_color=0ea5e9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=38bdf8&title_color=0ea5e9" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohdabzan&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdabzan&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 💬 Professional Connection
+### 🛠️ Developer Setup
 
-> **Status:** Open for Executive Connections, Logistics & Analytics Discussions  
-> **Location:** Dubai, United Arab Emirates  
-> **Direct Dispatch:** [mohdabzan2003@gmail.com](mailto:mohdabzan2003@gmail.com) • [View Live Portfolio](https://mohdabzan.github.io/myportfolio/)
+* **Editor:** Visual Studio Code
+* **Terminal:** Zsh / Git Bash
+* **OS:** macOS / Windows
+* **Workflow:** Minimalist dark-mode setups with focus automation.
+
+---
+
+### 🎧 Recent Vibe & Status
+
+> 🟢 **Status:** Coding, building web apps, and exploring new code architecture.  
+> 🎵 *Always running on coffee and good instrumental tracks.*
 
 ---
 
@@ -73,5 +102,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Turning%20Complex%20Operations%20Into%20Seamless%20Order&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" />
+  <em>"Always building, breaking, and learning."</em>
 </div>
