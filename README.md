@@ -36,12 +36,15 @@
 
 ---
 
-### 🚀 Professional Focus
+### 🎯 Professional Focus
 
-```json
-{
-  "focus": "Aviation Logistics & Data Analytics",
-  "tools": ["Power BI", "Excel", "AI Prompt Engineering"],
-  "location": "Dubai, UAE",
-  "status": "Available for Executive Connections"
-}
+> **Primary Focus:** Aviation Logistics & Data Analytics  
+> **Core Tools:** Power BI • Advanced Excel • AI Prompt Engineering  
+> **Base:** Dubai, UAE  
+> **Status:** Open for Executive Connections  
+
+---
+
+<div align="center">
+  <em>"Turning complex operations and logistics into seamless order."</em>
+</div>
