@@ -3,11 +3,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHAMMED%20ABZAN&fontSize=42&fontColor=38BDF8&fontAlignY=35&animation=fadeIn&desc=MBA%20Business%20Analytics%20Student%20•%20Data%20&%20Tech%20Explorer&descSize=15&descColor=94A3B8" width="100%" />
 
 <br>
+<br>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitAnimations/Dragon.gif" width="220" align="right" alt="Animated Dragon">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitAnimations/Dragon.gif" width="280" alt="Animated Dragon">
+
+<br>
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&height=50&lines=Bridging+Business+%26+Data+Analytics;Exploring+AI+%26+Smart+Workflows;Turning+Data+Into+Smart+Insights" alt="Typing SVG" />
 
+<br>
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-059669?style=for-the-badge&logo=safari&logoColor=white)](https://mohdabzan.github.io/myportfolio/)
