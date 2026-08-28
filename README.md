@@ -23,7 +23,6 @@
   <a href="#-what-im-doing">What I'm Doing</a> • 
   <a href="#️-tech--tools-arsenal">Tech Stack</a> • 
   <a href="#-featured-projects">Projects</a> • 
-  <a href="#-github-stats--trophies">Stats</a> • 
   <a href="#-developer-setup">Setup</a>
 </div>
 
@@ -55,27 +54,6 @@
 ### 📁 Featured Projects
 
 > Check out my pinned repositories or visit my [Live Portfolio](https://mohdabzan.github.io/myportfolio/) to explore web apps, UI builds, and development experiments.
-
----
-
-### 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=38bdf8&icon_color=38bdf8&ring_color=0ea5e9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=38bdf8&title_color=0ea5e9" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohdabzan&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdabzan&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub Streak" />
-</div>
 
 ---
 
