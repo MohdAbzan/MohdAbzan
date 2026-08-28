@@ -1,10 +1,48 @@
-https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHAMMED%20ABZAN&fontSize=42&fontColor=38BDF8&fontAlignY=38&animation=fadeIn&desc=Administrative%20Professional%20@%20dnata%20(Emirates%20Group)%20%20)•%20DXB&descSize=16&descColor=94A3B8" width="100%" />
-https://www.linkedin.com/in/mohdabzan" target="_blank"> https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> https://mohdabzan.github.io" target="_blank"> https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=safari&logoColor=black" alt="Portfolio">
+<div align="center">
 
---- ### 💻 Quick Overview ```json { "name": "Mohammed Abzan", "organization": "dnata (Emirates Group) — Dubai International Airport", "role": "Administrative & Customer Service Professional", "education": "MBA in Business Analytics (In Progress)", "focus": ["Cargo Operations", "Document Control", "Business Analytics", "AI Prompt Engineering"] } ``` --- ### ⚡ Core Skills & Tools
-| Category | Competencies & Stack | | :--- | :--- | | **Operations & Logistics** | Cargo Handling, Document Archiving, Compliance (IATA/GCAA), ULD Management | | **Data & Intelligence** | Power BI, Advanced Microsoft Excel, Data Entry & Reporting | | **Artificial Intelligence** | Prompt Engineering (Dubai Future Foundation Certified) | | **Software Systems** | Microsoft 365, One Cargo, Calogi, Enterprise Outlook | | **Languages** | English, Hindi, Urdu, Kannada (Native), Tulu (Native) |
---- ### 📊 GitHub Activity
-https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=38bdf8&icon_color=38bdf8&ring_color=0ea5e9&cache_seconds=86400" alt="GitHub Stats" width="48%"/> https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&text_color=38bdf8&title_color=0ea5e9&cache_seconds=86400" alt="Top Languages" width="48%"/>
+# 👋 Hi, I'm Mohammed Abzan
+
+### Administrative & Customer Service Professional at dnata (Emirates Group)  
+📍 Dubai International Airport, UAE
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdabzan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:mohdabzan2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=safari&logoColor=black)](https://mohdabzan.github.io)
+
+</div>
+
 ---
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Turning%20Complexity%20Into%20Seamless%20Order&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" />
+
+### 💼 About Me
+
+* 🏢 **Current Role:** Administrative Assistant at **dnata (Emirates Group)**, Dubai International Airport.
+* ✈️ **Experience:** Over two years managing cargo operations, document control, compliance, and cross-functional support in a fast-paced aviation environment.
+* 🎓 **Education:** Pursuing an **MBA in Business Analytics** (following a B.Com in Business Management).
+* 🤖 **Tech & Skills:** Power BI, AI Prompt Engineering (Dubai Future Foundation certified), Microsoft 365, Calogi, and One Cargo.
+
+---
+
+### 🛠️ Core Skills
+
+| Category | Competencies |
+| :--- | :--- |
+| **Operations & Logistics** | Cargo Handling, Document Archiving, Compliance (IATA/GCAA), ULD Management |
+| **Data & Intelligence** | Power BI, Advanced Excel, Data Entry & Reporting |
+| **Artificial Intelligence** | Prompt Engineering |
+| **Software Systems** | Microsoft 365 Suite, One Cargo, Calogi, Outlook |
+| **Languages** | English, Hindi, Urdu, Kannada (Native), Tulu (Native) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=transparent&hide_border=true&text_color=38bdf8&icon_color=38bdf8" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=transparent&hide_border=true&text_color=38bdf8&title_color=38bdf8" width="48%"/>
+</div>
+
+---
+
+<div align="center">
+  <em>"Turning complex operations and logistics into seamless order."</em>
+</div>
