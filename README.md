@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hey there, I'm Mohammed Abzan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHAMMED%20ABZAN&fontSize=42&fontColor=38BDF8&fontAlignY=35&animation=fadeIn&desc=Developer%20•%20Web%20Builder%20•%20Tech%20Explorer&descSize=15&descColor=94A3B8" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=50&lines=Building+Digital+Tools+%26+Web-Apps;Exploring+Data+Analytics+%26+AI;Always+Coding+%26+Creating" alt="Typing SVG" />
+<br>
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gitAnimations/Dragon.gif" width="220" align="right" alt="Animated Dragon">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&height=50&lines=Building+Digital+Tools+%26+Web-Apps;Exploring+Data+Analytics+%26+AI;Always+Coding+%26+Creating" alt="Typing SVG" />
 
 <br>
 
@@ -80,5 +84,5 @@
 ---
 
 <div align="center">
-  <em>"Always building, breaking, and learning."</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Always%20building,%20breaking,%20and%20learning.&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" />
 </div>
