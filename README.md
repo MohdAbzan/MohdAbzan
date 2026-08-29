@@ -46,8 +46,20 @@
 ### 📊 Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAbzan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAbzan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAbzan&theme=tokyonight&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -55,13 +67,3 @@
 ### 📁 Portfolio & Projects
 
 > Check out my pinned repositories below or visit my [Live Portfolio](https://mohdabzan.github.io/myportfolio/) to explore case studies, dashboards, and technical write-ups.
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-  </picture>
-</div>
