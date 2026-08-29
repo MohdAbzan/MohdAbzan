@@ -63,5 +63,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=38bdf8&color_dots=%23161b22,%23059669,%2310b981,%2334d399,%236ee7b7" alt="Contribution Snake" width="100%"/>
 </div>
