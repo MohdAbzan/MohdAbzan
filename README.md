@@ -37,9 +37,9 @@
 
 | Category | Tools & Competencies |
 | :--- | :--- |
-| **Data & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0284C7?style=flat-square&logo=databricks&logoColor=white) |
-| **AI & Automation** | ![AI Prompt Engineering](https://img.shields.io/badge/AI_Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-38BDF8?style=flat-square&logo=zapier&logoColor=white) |
-| **Platform & Web** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-059669?style=flat-square&logo=safari&logoColor=white) |
+| **Data & BI** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/> <img src="https://img.shields.io/badge/Data_Analytics-0284C7?style=flat-square&logo=databricks&logoColor=white" alt="Data Analytics"/> |
+| **AI & Automation** | <img src="https://img.shields.io/badge/AI_Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" alt="AI Prompt Engineering"/> <img src="https://img.shields.io/badge/Workflow_Automation-38BDF8?style=flat-square&logo=zapier&logoColor=white" alt="Workflow Automation"/> |
+| **Platform & Web** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Web_Portfolio-059669?style=flat-square&logo=safari&logoColor=white" alt="Web Portfolio"/> |
 
 ---
 
