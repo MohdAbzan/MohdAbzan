@@ -37,21 +37,17 @@
 
 | Category | Tools & Competencies |
 | :--- | :--- |
-| **Data & BI** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/> <img src="https://img.shields.io/badge/Data_Analytics-0284C7?style=flat-square&logo=databricks&logoColor=white" alt="Data Analytics"/> |
-| **AI & Automation** | <img src="https://img.shields.io/badge/AI_Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" alt="AI Prompt Engineering"/> <img src="https://img.shields.io/badge/Workflow_Automation-38BDF8?style=flat-square&logo=zapier&logoColor=white" alt="Workflow Automation"/> |
-| **Platform & Web** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Web_Portfolio-059669?style=flat-square&logo=safari&logoColor=white" alt="Web Portfolio"/> |
+| **Data & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0284C7?style=flat-square&logo=databricks&logoColor=white) |
+| **AI & Automation** | ![AI Prompt Engineering](https://img.shields.io/badge/AI_Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white) ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-38BDF8?style=flat-square&logo=zapier&logoColor=white) |
+| **Platform & Web** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Web Portfolio](https://img.shields.io/badge/Web_Portfolio-059669?style=flat-square&logo=safari&logoColor=white) |
 
 ---
 
 ### 📊 Stats & Metrics
 
 <div align="center">
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAbzan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 </div>
 
 ---
@@ -63,5 +59,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=38bdf8&color_dots=%23161b22,%23059669,%2310b981,%2334d399,%236ee7b7" alt="Contribution Snake" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  </picture>
 </div>
