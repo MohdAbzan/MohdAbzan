@@ -18,7 +18,7 @@
 <div align="center">
   <a href="#-about-me">About Me</a> • 
   <a href="#️-analytics--tech-toolkit">Toolkit</a> • 
-  <a href="#-stats--metrics">Stats</a> • 
+  <a href="#-stats--metrics">Metrics</a> • 
   <a href="#-portfolio--projects">Projects</a>
 </div>
 
@@ -43,23 +43,14 @@
 
 ---
 
-### 📊 Stats & Metrics
+### 📊 GitHub Metrics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAbzan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
-</div>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=MohdAbzan&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/MohdAbzan)
+[![GitHub Streak](https://img.shields.io/badge/Main_Focus-Business_Analytics_%26_Data-059669?style=flat-square&logo=databricks&logoColor=white)](https://mohdabzan.github.io/myportfolio/)
+[![Repositories](https://img.shields.io/github/repos/MohdAbzan?style=flat-square&color=38bdf8&logo=github)](https://github.com/MohdAbzan?tab=repositories)
 
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAbzan&theme=tokyonight&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -67,3 +58,9 @@
 ### 📁 Portfolio & Projects
 
 > Check out my pinned repositories below or visit my [Live Portfolio](https://mohdabzan.github.io/myportfolio/) to explore case studies, dashboards, and technical write-ups.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Blending%20Business%20Strategy%20with%20Data%20Intelligence.&fontSize=14&fontColor=94A3B8&animation=fadeIn" width="100%" />
+</div>
