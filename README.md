@@ -43,13 +43,20 @@
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 Stats & Metrics
 
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MohdAbzan&color=0ea5e9&style=flat-square&label=Profile+Views)](https://github.com/MohdAbzan)
-[![GitHub Streak](https://img.shields.io/badge/Main_Focus-Business_Analytics_%26_Data-059669?style=flat-square&logo=databricks&logoColor=white)](https://mohdabzan.github.io/myportfolio/)
-[![Repositories](https://img.shields.io/github/repos/MohdAbzan?style=flat-square&color=38bdf8&logo=github)](https://github.com/MohdAbzan?tab=repositories)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAbzan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAbzan&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
