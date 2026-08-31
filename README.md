@@ -45,6 +45,27 @@
 
 ---
 
+### 📈 Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdabzan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdabzan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
 ### 🧠 Thought of the Day
 
 > *"Being ignorant is not so much a shame, as being unwilling to learn."*
