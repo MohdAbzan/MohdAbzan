@@ -1,14 +1,6 @@
 <!-- ===================================================== -->
-<!--                    HELLO / INTRO                      -->
+<!--                  HELLO / INTRO                        -->
 <!-- ===================================================== -->
-
-<p align="center">
-  <img
-    src="assets/hello.gif"
-    width="100%"
-    alt="Hello, I'm Mohd Abzan"
-  />
-</p>
 
 <p align="center">
   <img
@@ -19,9 +11,16 @@
 </p>
 
 <p align="center">
-  📊 Business Analytics &nbsp; • &nbsp;
-  💻 Technology &nbsp; • &nbsp;
-  📈 Data Visualization &nbsp; • &nbsp;
+  <b>Mohd Abzan</b>
+</p>
+
+<p align="center">
+  📊 Business Analytics
+  &nbsp; • &nbsp;
+  💻 Technology
+  &nbsp; • &nbsp;
+  📈 Data Visualization
+  &nbsp; • &nbsp;
   🚀 Continuous Learning
 </p>
 
@@ -33,17 +32,21 @@
 </p>
 
 <p align="center">
-  🔎 Data &nbsp;→&nbsp;
-  🧠 Analysis &nbsp;→&nbsp;
-  💡 Insights &nbsp;→&nbsp;
-  🎯 Decisions &nbsp;→&nbsp;
+  🔎 Data
+  &nbsp;→&nbsp;
+  🧠 Analysis
+  &nbsp;→&nbsp;
+  💡 Insights
+  &nbsp;→&nbsp;
+  🎯 Decisions
+  &nbsp;→&nbsp;
   🚀 Impact
 </p>
 
 ---
 
 <!-- ===================================================== -->
-<!--                      ABOUT ME                         -->
+<!--                     ABOUT ME                          -->
 <!-- ===================================================== -->
 
 <h2 align="center">🧑‍💻 About Me</h2>
@@ -55,8 +58,8 @@
 </p>
 
 <p align="center">
-  I enjoy exploring data, discovering patterns, building dashboards,
-  solving problems and turning information into meaningful insights.
+  I enjoy exploring data, discovering patterns, creating dashboards,
+  solving problems and transforming information into meaningful insights.
 </p>
 
 <p align="center">
@@ -72,7 +75,7 @@
 ---
 
 <!-- ===================================================== -->
-<!--                   CURRENT FOCUS                       -->
+<!--                  CURRENT FOCUS                        -->
 <!-- ===================================================== -->
 
 <h2 align="center">⚡ Currently Focused On</h2>
@@ -90,7 +93,7 @@
   &nbsp; • &nbsp;
   💡 Business Insights
   &nbsp; • &nbsp;
-  🎯 Decision Making
+  🎯 Data-Driven Decisions
 </p>
 
 ---
@@ -190,7 +193,7 @@
 ---
 
 <!-- ===================================================== -->
-<!--                  ANALYTICS MINDSET                    -->
+<!--                 ANALYTICS MINDSET                     -->
 <!-- ===================================================== -->
 
 <h2 align="center">🧠 My Analytics Mindset</h2>
@@ -223,9 +226,7 @@
 <h2 align="center">🔥 Daily Streak</h2>
 
 <p align="center">
-  <i>
-    Showing up • Learning • Building • Improving
-  </i>
+  <i>Showing up • Learning • Building • Improving</i>
 </p>
 
 <p align="center">
@@ -250,10 +251,14 @@
 ---
 
 <!-- ===================================================== -->
-<!--                  CONTRIBUTION SNAKE                    -->
+<!--                 CONTRIBUTION SNAKE                     -->
 <!-- ===================================================== -->
 
 <h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <i>Every contribution is a small step toward something bigger.</i>
+</p>
 
 <p align="center">
   <img
@@ -261,12 +266,6 @@
     width="90%"
     alt="GitHub Contribution Snake"
   />
-</p>
-
-<p align="center">
-  <i>
-    Every contribution is a small step toward something bigger.
-  </i>
 </p>
 
 ---
@@ -292,9 +291,7 @@
 </p>
 
 <p align="center">
-  <i>
-    Always learning something new.
-  </i>
+  <i>Always learning something new.</i>
 </p>
 
 ---
@@ -320,9 +317,7 @@
 </p>
 
 <p align="center">
-  <b>
-    🔥 One day • One improvement • One step forward
-  </b>
+  <b>🔥 One day • One improvement • One step forward</b>
 </p>
 
 ---
@@ -368,7 +363,7 @@
 ---
 
 <!-- ===================================================== -->
-<!--                    FINAL MESSAGE                      -->
+<!--                     FINAL                             -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -379,9 +374,9 @@
   />
 </p>
 
-<h3 align="center">
+<h2 align="center">
   ✨ Thanks for Visiting My GitHub ✨
-</h3>
+</h2>
 
 <p align="center">
   👀 Explore
@@ -403,6 +398,6 @@
 
 <p align="center">
   <b>
-    💙 DATA → INSIGHTS → DECISIONS → IMPACT 🚀
+    💜 DATA → INSIGHTS → DECISIONS → IMPACT 🚀
   </b>
 </p>
