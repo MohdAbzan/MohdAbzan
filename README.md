@@ -10,14 +10,13 @@
   />
 </p>
 
-<h2 align="center">
-  👋 Hey, I'm Abzan
-</h2>
-
 <p align="center">
-  <b>Mohd Abzan</b>
+  <img
+    src="assets/hello-abzan.gif"
+    width="100%"
+    alt="Hello, I'm Abzan"
+  />
 </p>
-
 <p align="center">
   📊 Business Analytics &nbsp; • &nbsp;
   💻 Technology &nbsp; • &nbsp;
