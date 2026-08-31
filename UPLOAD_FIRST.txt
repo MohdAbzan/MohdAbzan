@@ -1,0 +1,10 @@
+DRAG AND DROP
+
+Upload these three items into the ROOT of your GitHub profile repository:
+
+README.md
+.github/
+assets/
+
+Then commit to main and run the GitHub Actions workflow named:
+Generate GitHub Contribution Snake
