@@ -47,26 +47,22 @@
 
 ### 📈 Stats & Metrics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdabzan&theme=radical&hide_border=true" alt="GitHub Streak" /></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdabzan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdabzan&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+</p>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdabzan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+</p>
 
 ---
 
