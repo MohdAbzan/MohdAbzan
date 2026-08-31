@@ -1,485 +1,186 @@
-<!-- ========================= -->
-<!--        HERO BANNER        -->
-<!-- ========================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="assets/banner.gif"
-    width="100%"
-    alt="Mohd Abzan Animated GitHub Banner"
-  />
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--      WELCOME MESSAGE      -->
-<!-- ========================= -->
-
-<h1 align="center">
-  👋 HELLO, I'M ABZAN
-</h1>
-
-<p align="center">
-  <b>MOHD ABZAN</b>
-</p>
-
-<p align="center">
-  <i>
-    Turning data into insights • insights into decisions • decisions into impact
-  </i>
-</p>
-
-<p align="center">
-  <code>DATA</code>
-  →
-  <code>ANALYSIS</code>
-  →
-  <code>INSIGHTS</code>
-  →
-  <code>DECISIONS</code>
-  →
-  <code>IMPACT</code>
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--         ABOUT ME          -->
-<!-- ========================= -->
-
-<h2 align="center">🧑‍💻 ABOUT ME</h2>
-
-<p align="center">
-  I'm <b>Mohd Abzan</b>, exploring the world of
-  <b>Business Analytics, Data, Technology and Visualization.</b>
-</p>
-
-<p align="center">
-  I enjoy discovering patterns, understanding data,
-  building visual stories and continuously improving my analytical skills.
-</p>
-
-<br>
-
-<p align="center">
-
-🎓 <b>MBA Business Analytics</b>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-📊 <b>Data Analytics</b>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-📈 <b>Data Visualization</b>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-💻 <b>Technology</b>
-
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--      CURRENT FOCUS        -->
-<!-- ========================= -->
-
-<h2 align="center">⚡ CURRENT FOCUS</h2>
-
-<p align="center">
-  🔎 Exploring Data
-  &nbsp;→&nbsp;
-  🧹 Cleaning Data
-  &nbsp;→&nbsp;
-  📊 Analyzing Data
-  &nbsp;→&nbsp;
-  📈 Visualizing Data
-  &nbsp;→&nbsp;
-  💡 Finding Insights
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--       ANALYTICS TOOLS     -->
-<!-- ========================= -->
-
-<h2 align="center">🛠️ ANALYTICS TOOLKIT</h2>
-
-<p align="center">
-  <i>From raw data to meaningful insights</i>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="assets/analytics-tools.gif"
-    width="95%"
-    alt="Animated Analytics Tools"
-  />
-</p>
-
-<br>
-
-<p align="center">
-
-🟢 <b>Microsoft Excel</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-🔵 <b>SQL</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-🐍 <b>Python</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-🟡 <b>Power BI</b>
-&nbsp;&nbsp;→&nbsp;&nbsp;
-
-🟣 <b>Tableau</b>
-
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--       DATA WORKFLOW       -->
-<!-- ========================= -->
-
-<h2 align="center">⚡ MY DATA WORKFLOW</h2>
-
-<p align="center">
-  <img
-    src="assets/workflow.gif"
-    width="95%"
-    alt="Animated Data Workflow"
-  />
-</p>
-
-<p align="center">
-  📥 <b>COLLECT</b>
-  →
-  🧹 <b>CLEAN</b>
-  →
-  🔎 <b>EXPLORE</b>
-  →
-  📊 <b>VISUALIZE</b>
-  →
-  💡 <b>INSIGHT</b>
-  →
-  🎯 <b>IMPACT</b>
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--      AREAS OF INTEREST    -->
-<!-- ========================= -->
-
-<h2 align="center">🎯 AREAS OF INTEREST</h2>
-
-<p align="center">
-
-📊 Data Analysis  
-<br>
-📈 Data Visualization  
-<br>
-🗄️ Data Management  
-<br>
-💡 Business Intelligence  
-<br>
-📌 KPI Analysis  
-<br>
-👥 Customer Analytics  
-<br>
-🔎 Data-Driven Problem Solving  
-<br>
-🎯 Business Decision Making
-
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--      ANALYTICS APPROACH   -->
-<!-- ========================= -->
-
-<h2 align="center">🔍 MY ANALYTICS APPROACH</h2>
-
-<p align="center">
-
-📊 <b>DATA</b>
-<br>
-⬇
-<br>
-🔎 <b>ANALYSIS</b>
-<br>
-⬇
-<br>
-💡 <b>INSIGHTS</b>
-<br>
-⬇
-<br>
-🎯 <b>DECISIONS</b>
-<br>
-⬇
-<br>
-🚀 <b>IMPACT</b>
-
-</p>
-
-<br>
-
-<p align="center">
-  <i>
-    "Good analysis doesn't just explain what happened.
-    It helps understand what to do next."
-  </i>
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--    STREAKS THROUGH DAY    -->
-<!-- ========================= -->
-
-<h2 align="center">🔥 STREAKS THROUGH THE DAY</h2>
-
-<p align="center">
-  <i>
-    Showing up • Learning • Building • Improving
-  </i>
-</p>
-
-<br>
-
-<p align="center">
-
-🌅 <b>START</b>
-&nbsp; → &nbsp;
-📚 <b>LEARN</b>
-&nbsp; → &nbsp;
-💻 <b>BUILD</b>
-&nbsp; → &nbsp;
-📊 <b>ANALYZE</b>
-&nbsp; → &nbsp;
-🌙 <b>REFLECT</b>
-
-</p>
-
-<br>
-
-<p align="center">
-
-🔥 Keep the streak alive  
-<br>
-⚡ One step every day  
-<br>
-📈 Small progress becomes big progress
-
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--       GITHUB STATS        -->
-<!-- ========================= -->
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <i>My GitHub activity and development journey</i>
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="180"
-  alt="Mohd Abzan GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAbzan&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Mohd Abzan Most Used Languages"
-/>
-
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--     CONTRIBUTION SNAKE    -->
-<!-- ========================= -->
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
-<p align="center">
-  <i>Every contribution tells a story.</i>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="assets/github-snake.gif"
-    width="95%"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--       CONTRIBUTIONS       -->
-<!-- ========================= -->
-
-<h2 align="center">📈 CONTRIBUTION JOURNEY</h2>
-
-<p align="center">
-
-🟢 Learn  
-→  
-🟢 Practice  
-→  
-🟢 Build  
-→  
-🟢 Improve  
-→  
-🟢 Repeat
-
-</p>
-
-<br>
-
-<p align="center">
-  <i>
-    Consistency beats intensity.
-  </i>
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--      LEARNING MINDSET     -->
-<!-- ========================= -->
-
-<h2 align="center">🧠 LEARNING MINDSET</h2>
-
-<p align="center">
-
-🔎 Stay Curious  
-<br>
-📚 Keep Learning  
-<br>
-🧪 Keep Experimenting  
-<br>
-💻 Keep Building  
-<br>
-📈 Keep Improving
-
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--        TECH JOURNEY       -->
-<!-- ========================= -->
-
-<h2 align="center">🚀 MY TECH JOURNEY</h2>
-
-<p align="center">
-
-Excel
-&nbsp; → &nbsp;
-SQL
-&nbsp; → &nbsp;
-Python
-&nbsp; → &nbsp;
-Power BI
-&nbsp; → &nbsp;
-Tableau
-&nbsp; → &nbsp;
-More to Explore...
-
-</p>
-
-<br>
-
-<p align="center">
-  <i>
-    Always learning something new.
-  </i>
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--        CONNECTION         -->
-<!-- ========================= -->
-
-<h2 align="center">🌐 LET'S CONNECT</h2>
-
-<p align="center">
+# 👋 Hi, I'm Abzan
 
 <a href="https://github.com/MohdAbzan">
-  <img
-    src="https://img.shields.io/badge/GitHub-MohdAbzan-181717?style=for-the-badge&logo=github"
-    alt="GitHub"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abzan+%F0%9F%91%8B;MBA+Business+Analytics+Student+%F0%9F%8E%93;Turning+Data+into+Insights+%F0%9F%93%8A;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" alt="Typing Animation" />
 </a>
 
+<p>
+  <a href="https://github.com/MohdAbzan">
+    <img src="https://img.shields.io/github/followers/MohdAbzan?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/MohdAbzan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories">
+  </a>
 </p>
 
-<br>
+</div>
 
-<!-- ========================= -->
-<!--          QUOTE            -->
-<!-- ========================= -->
+---
 
-<p align="center">
+## 👨‍💻 About Me
 
-🚀 <b>Learn.</b>
-&nbsp;&nbsp;
-📊 <b>Analyze.</b>
-&nbsp;&nbsp;
-💡 <b>Understand.</b>
-&nbsp;&nbsp;
-🎯 <b>Decide.</b>
-&nbsp;&nbsp;
-🔥 <b>Repeat.</b>
+I'm **Abzan**, an **MBA Business Analytics Student** interested in the intersection of **Business, Data, and Technology**.
 
-</p>
+I enjoy working with data, discovering patterns, creating meaningful visualizations, and turning analytical findings into insights that can support better business decisions.
 
-<br>
+### What I Focus On
 
-<h2 align="center">
-  ✨ THANKS FOR VISITING ✨
-</h2>
+- 📊 Data Analysis & Business Intelligence
+- 📈 Data Visualization & Reporting
+- 🗄️ SQL & Data Management
+- 🐍 Python for Data Analysis
+- 💡 Business Strategy & Decision Making
+- 🚀 Practical Analytics Projects
+- 📚 Continuous Learning
 
-<p align="center">
-  <i>
-    Stay curious. Keep learning. Never stop building.
-  </i>
-</p>
+---
 
-<br>
+## 🛠️ Analytics Tools
 
-<p align="center">
-  <b>💙 DATA → INSIGHTS → DECISIONS → IMPACT 🚀</b>
-</p>
+<div align="center">
 
-<br>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-<p align="center">
-  <img
-    src="assets/banner.gif"
-    width="70%"
-    alt="Keep Learning"
-  />
-</p>
+</div>
+
+---
+
+## ⚡ My Analytics Workflow
+
+<div align="center">
+
+**📥 DATA**  
+↓  
+**🧹 CLEAN**  
+↓  
+**🔍 ANALYZE**  
+↓  
+**📊 VISUALIZE**  
+↓  
+**💡 INSIGHT**  
+↓  
+**🎯 DECISION**  
+↓  
+**🚀 IMPACT**
+
+</div>
+
+> **Data → Insights → Decisions → Impact**
+
+---
+
+## 🎯 Areas of Interest
+
+| Area | Focus |
+|---|---|
+| 📊 Data Analysis | Finding patterns and meaningful insights |
+| 📈 Data Visualization | Turning data into clear visual stories |
+| 🗄️ Data Management | Querying, organizing and working with data |
+| 💡 Business Intelligence | Supporting better business decisions |
+| 📌 KPI Analysis | Understanding business performance |
+| 👥 Customer Analytics | Exploring customer behavior |
+| 📉 Business Performance | Measuring trends and performance |
+| 🔎 Problem Solving | Using data to answer business questions |
+
+---
+
+## 🧠 My Analytics Approach
+
+<div align="center">
+
+| Step | Question |
+|:---:|---|
+| 📊 **DATA** | What does the data tell us? |
+| 🔍 **ANALYSIS** | What patterns can we find? |
+| 💡 **INSIGHTS** | What does it mean? |
+| 🎯 **DECISIONS** | What should we do? |
+| 🚀 **IMPACT** | What difference can it make? |
+
+</div>
+
+---
+
+## 📚 Projects & Learning
+
+I'm continuously building my knowledge through practical projects and hands-on learning.
+
+### 🔎 Current Learning Areas
+
+- 📊 Business Analytics
+- 🐍 Python Data Analysis
+- 🗄️ SQL
+- 📈 Data Visualization
+- 📊 Power BI
+- 📉 Tableau
+- 💡 Business Intelligence
+- 🎯 Data-Driven Decision Making
+
+### 🚀 Project Mindset
+
+> Learn → Build → Analyze → Improve → Repeat
+
+---
+
+## 💭 Thought of the Day
+
+<div align="center">
+
+### ✨ "Good decisions start with good questions, and good questions start with curiosity."
+
+**Keep learning. Keep building. Keep improving. 🚀**
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MohdAbzan/MohdAbzan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🌱 Currently
+
+- 📚 Learning more about Business Analytics
+- 🐍 Improving Python and data analysis skills
+- 🗄️ Practicing SQL
+- 📊 Building better dashboards
+- 💡 Exploring data-driven business problems
+- 🚀 Working on practical projects
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MohdAbzan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Turning Business Questions into Data-Driven Insights
+
+⭐ Thanks for visiting my profile!
+
+</div>
