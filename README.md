@@ -1,6 +1,6 @@
-<!-- ====================================================== -->
-<!--                    PROFILE BANNER                     -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                       BANNER                              -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
@@ -10,9 +10,11 @@
   />
 </p>
 
-<!-- ====================================================== -->
-<!--                       INTRO                            -->
-<!-- ====================================================== -->
+<br>
+
+<!-- ========================================================= -->
+<!--                     INTRODUCTION                          -->
+<!-- ========================================================= -->
 
 <h1 align="center">
   HELLO WORLD 👋
@@ -24,38 +26,34 @@
 
 <p align="center">
   <i>
-    Transforming Data into Insights. Empowering Decisions. Creating Impact.
+    Transforming Data into Insights • Empowering Decisions • Creating Impact
   </i>
 </p>
 
 <p align="center">
-  📊 Data Analysis
-  &nbsp; • &nbsp;
-  📈 Data Visualization
-  &nbsp; • &nbsp;
-  🗄️ SQL & Data Management
-  &nbsp; • &nbsp;
+  📊 Data Analysis &nbsp; • &nbsp;
+  📈 Data Visualization &nbsp; • &nbsp;
+  🗄️ SQL & Data Management &nbsp; • &nbsp;
   💡 Business Strategy
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                      ABOUT ME                          -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                        ABOUT ME                            -->
+<!-- ========================================================= -->
 
 <h2 align="center">👨‍💼 ABOUT ME</h2>
 
 <p align="center">
   I am <strong>Mohd Abzan</strong>, an MBA Business Analytics student
-  interested in using data to understand business problems, discover
-  meaningful insights, and support better decision-making.
+  passionate about understanding business problems through data,
+  discovering meaningful insights, and supporting better decision-making.
 </p>
 
 <p align="center">
-  My goal is to combine <strong>business knowledge</strong> with
-  <strong>data-driven thinking</strong> to turn information into
-  practical business insights.
+  I am building my skills at the intersection of
+  <strong>Business + Data + Technology</strong>.
 </p>
 
 <br>
@@ -63,114 +61,76 @@
 <p align="center">
 
 🎓 <strong>MBA Business Analytics Student</strong><br>
-📊 Interested in Data Analysis & Business Intelligence<br>
-📈 Passionate about Data Visualization<br>
-🗄️ Exploring SQL & Data Management<br>
-💡 Interested in Business Strategy & Decision Making<br>
-🚀 Building practical analytics projects<br>
-📚 Continuously learning and developing new skills
+📊 Data Analysis & Business Intelligence<br>
+📈 Data Visualization & Reporting<br>
+🗄️ SQL & Data Management<br>
+💡 Business Strategy & Decision Making<br>
+🚀 Building Practical Analytics Projects<br>
+📚 Continuous Learning
 
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                ANALYTICS TOOLKIT                      -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                    ANALYTICS TOOLKIT                      -->
+<!-- ========================================================= -->
 
-<h2 align="center">📊 ANALYTICS TOOLKIT</h2>
+<h2 align="center">🛠️ ANALYTICS TOOLKIT</h2>
 
 <p align="center">
 
-<img
-  src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-  alt="Excel"
-/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 
-<img
-  src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
-  alt="SQL"
-/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
-/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
-<img
-  src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-  alt="Pandas"
-/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 
-<img
-  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"
-  alt="Power BI"
-/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI">
 
-<img
-  src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-  alt="Tableau"
-/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                  AREAS OF INTEREST                    -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                    AREAS OF INTEREST                      -->
+<!-- ========================================================= -->
 
 <h2 align="center">🎯 AREAS OF INTEREST</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
+<p align="center">
 
-### 📊
+📊 <strong>Data Analysis</strong>
+&nbsp; • &nbsp;
+📈 <strong>Data Visualization</strong>
+&nbsp; • &nbsp;
+🗄️ <strong>Data Management</strong>
+&nbsp; • &nbsp;
+💡 <strong>Business Intelligence</strong>
 
-<strong>DATA ANALYSIS</strong>
+</p>
 
-Finding patterns, trends and insights from data.
+<p align="center">
 
-</td>
+📌 Business Analytics
+&nbsp; • &nbsp;
+📌 KPI Analysis
+&nbsp; • &nbsp;
+📌 Business Reporting
+&nbsp; • &nbsp;
+📌 Data-Driven Decision Making
 
-<td align="center" width="25%">
-
-### 📈
-
-<strong>DATA VISUALIZATION</strong>
-
-Turning complex information into clear visual stories.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️
-
-<strong>DATA MANAGEMENT</strong>
-
-Working with structured data and SQL.
-
-</td>
-
-<td align="center" width="25%">
-
-### 💡
-
-<strong>BUSINESS STRATEGY</strong>
-
-Using analytics to support better decisions.
-
-</td>
-  </tr>
-</table>
+</p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                   MY APPROACH                          -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                   MY ANALYTICS APPROACH                   -->
+<!-- ========================================================= -->
 
 <h2 align="center">🔎 MY ANALYTICS APPROACH</h2>
 
@@ -189,189 +149,107 @@ Using analytics to support better decisions.
 </p>
 
 <p align="center">
-  I am interested in understanding the story behind the numbers
-  and connecting analytical findings with real-world business decisions.
+  Turning business questions into data-driven insights.
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                  CURRENT FOCUS                         -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                        PROJECTS                           -->
+<!-- ========================================================= -->
 
-<h2 align="center">🚀 CURRENT FOCUS</h2>
-
-<p align="center">
-
-📚 MBA Business Analytics<br>
-📊 Business & Data Analysis<br>
-📈 Data Visualization<br>
-🗄️ SQL & Data Management<br>
-💡 Business Intelligence & Decision Making<br>
-🧠 Data-driven Problem Solving
-
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                  PROJECTS                             -->
-<!-- ====================================================== -->
-
-<h2 align="center">🚀 PROJECTS</h2>
+<h2 align="center">🚀 PROJECTS & LEARNING</h2>
 
 <p align="center">
   <i>
-    Building projects that connect business questions with data-driven insights.
+    Exploring practical applications of business analytics and data.
   </i>
+</p>
+
+<p align="center">
+
+📊 Sales & Business Performance Analysis<br>
+📈 Interactive Dashboards & Data Visualization<br>
+👥 Customer & Market Analysis<br>
+🗄️ SQL Data Analysis<br>
+💰 Business KPI & Financial Analysis<br>
+💡 Data-Driven Business Insights
+
 </p>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-
-### 📊 Business Analytics
-
-Business analysis projects focused on identifying trends,
-patterns, KPIs and actionable insights.
-
-</td>
-
-<td align="center" width="50%">
-
-### 📈 Data Visualization
-
-Dashboards and visual analytics designed to communicate
-business information clearly.
-
-</td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-
-### 🗄️ SQL & Data
-
-Projects involving data querying, organization,
-transformation and analysis.
-
-</td>
-
-<td align="center" width="50%">
-
-### 💡 Business Insights
-
-Using analytical thinking to turn data into
-meaningful recommendations.
-
-</td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                   GITHUB TROPHIES                     -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                    GITHUB TROPHIES                        -->
+<!-- ========================================================= -->
 
 <h2 align="center">🏆 GITHUB TROPHIES</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-ruddy.vercel.app/?username=MohdAbzanwebsite&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai"
+    src="https://github-profile-trophy-ruddy.vercel.app/?username=MohdAbzan&no-bg=true&no-frame=true&row=2&column=6&margin-w=15&margin-h=15&theme=monokai"
     alt="GitHub Trophies"
   />
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    GITHUB STATS                       -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                     GITHUB STATS                          -->
+<!-- ========================================================= -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-<table width="100%">
-  <tr>
-
-    <td width="50%" align="center">
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/MohdAbzanwebsite">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=MohdAbzanwebsite&show_icons=true&theme=nightowl&bg_color=0D0221&title_color=C56A90&text_color=FFFFFF&icon_color=C56A90"
-      alt="Mohd Abzan GitHub Stats"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D0221&title_color=C56A90&text_color=FFFFFF&icon_color=C56A90"
+    alt="Mohd Abzan GitHub Stats"
+  />
 </p>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://github.com/MohdAbzanwebsite">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAbzanwebsite&theme=nightowl&background=0D0221&ring=C56A90&fire=C56A90&currStreakLabel=FFFFFF"
-      alt="Mohd Abzan GitHub Streak"
-    />
-  </a>
-</p>
-
-</td>
-
-  </tr>
-</table>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                 CONTRIBUTION GRAPH                    -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION STREAK                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAbzan&theme=nightowl&hide_border=true&background=0D0221&ring=C56A90&fire=C56A90&currStreakLabel=FFFFFF"
+    alt="Mohd Abzan Contribution Streak"
+  />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION GRAPH                      -->
+<!-- ========================================================= -->
 
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAbzanwebsite&bg_color=0D0221&color=FFFFFF&line=C56A90&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAbzan&bg_color=0D0221&color=FFFFFF&line=C56A90&point=FFFFFF&area=true&hide_border=true"
     alt="Mohd Abzan Contribution Graph"
   />
 </p>
 
 <br>
 
-<!-- ====================================================== -->
-<!--                    THOUGHT                            -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE                        -->
+<!-- ========================================================= -->
 
-<h2 align="center">🌟 THOUGHT OF THE DAY</h2>
-
-<p align="center">
-  <img
-    src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=Being%20ignorant%20is%20not%20so%20much%20a%20shame%2C%20as%20being%20unwilling%20to%20learn.&theme=dark&bg_color=0D0221&author_color=FFFFFF&accent_color=C56A90"
-    alt="Quote"
-  />
-</p>
-
-<br>
-
-<!-- ====================================================== -->
-<!--                    CONNECT                            -->
-<!-- ====================================================== -->
-
-<h2 align="center">🤝 CONNECT WITH ME</h2>
+<h2 align="center">🌐 GITHUB PROFILE</h2>
 
 <p align="center">
 
-<a href="https://github.com/MohdAbzanwebsite">
+<a href="https://github.com/MohdAbzan">
   <img
-    src="https://img.shields.io/badge/GitHub-MohdAbzanwebsite-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-MohdAbzan-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
@@ -387,16 +265,55 @@ meaningful recommendations.
 
 <br>
 
-<!-- ====================================================== -->
-<!--                       FOOTER                          -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                    THOUGHT OF THE DAY                    -->
+<!-- ========================================================= -->
+
+<h2 align="center">🌟 THOUGHT OF THE DAY</h2>
+
+<p align="center">
+  <img
+    src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=What%20gets%20measured%20gets%20managed.&theme=dark&bg_color=0D0221&author_color=FFFFFF&accent_color=C56A90"
+    alt="Thought of the Day"
+  />
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       CONNECT                             -->
+<!-- ========================================================= -->
+
+<h2 align="center">🤝 CONNECT WITH ME</h2>
 
 <p align="center">
 
-<strong>
-📊 DATA → INSIGHTS → DECISIONS → IMPACT
-</strong>
+<a href="https://github.com/MohdAbzan">
+  <img
+    src="https://img.shields.io/badge/GitHub-MohdAbzan-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
+<a href="https://mohdabzan.com">
+  <img
+    src="https://img.shields.io/badge/Website-MohdAbzan.com-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Website"
+  />
+</a>
+
+</p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         MESSAGE                           -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <strong>
+    📊 DATA → INSIGHTS → DECISIONS → IMPACT
+  </strong>
 </p>
 
 <p align="center">
@@ -404,6 +321,12 @@ meaningful recommendations.
     Thanks for visiting my GitHub profile! 🚀
   </i>
 </p>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                         FOOTER                            -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
