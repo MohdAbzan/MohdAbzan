@@ -1,8 +1,7 @@
 <!-- ========================================================= -->
 <!--                     MOHD ABZAN                            -->
-<!--                GITHUB PROFILE README                     -->
+<!--              GITHUB PROFILE README                        -->
 <!-- ========================================================= -->
-
 
 <!-- ========================== BANNER ======================== -->
 
@@ -14,31 +13,22 @@
   />
 </p>
 
-
-<br>
-
-
-<!-- ====================== TYPING HEADER ==================== -->
+<!-- ======================= INTRO ============================ -->
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=C56A90&center=true&vCenter=true&width=750&lines=HELLO%2C+I'M+ABZAN+%E2%9C%A8;MBA+BUSINESS+ANALYTICS+STUDENT;DATA+%E2%86%92+INSIGHTS+%E2%86%92+DECISIONS;LEARNING+%7C+ANALYZING+%7C+BUILDING"
-    alt="Typing animation"
+    alt="Hello, I'm Abzan"
   />
 </p>
 
-
-<h3 align="center">
-  MBA BUSINESS ANALYTICS STUDENT
-</h3>
-
-
 <p align="center">
-  <i>
-    Transforming Data into Insights • Empowering Decisions • Creating Impact
-  </i>
+  <strong>MBA BUSINESS ANALYTICS STUDENT</strong>
 </p>
 
+<p align="center">
+  <i>Transforming Data into Insights • Empowering Decisions • Creating Impact</i>
+</p>
 
 <p align="center">
   📊 Data Analysis
@@ -50,13 +40,9 @@
   💡 Business Intelligence
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
+<!-- ======================== ABOUT ME ======================== -->
 
 <h2 align="center">👨‍💼 ABOUT ME</h2>
 
@@ -68,282 +54,164 @@
 </p>
 
 <p align="center">
-  I enjoy exploring data, identifying patterns, creating
-  meaningful visualizations and turning analytical findings
-  into insights that can support better business decisions.
+  I enjoy exploring data, identifying patterns, creating meaningful
+  visualizations and turning analytical findings into insights that
+  can support better business decisions.
 </p>
-
-
-<br>
-
 
 <p align="center">
-
-🎓 <strong>MBA Business Analytics Student</strong><br><br>
-
-📊 Data Analysis & Business Intelligence<br>
-
-📈 Data Visualization & Reporting<br>
-
-🗄️ SQL & Data Management<br>
-
-🐍 Python for Data Analysis<br>
-
-💡 Business Strategy & Decision Making<br>
-
-🚀 Building Practical Analytics Projects<br>
-
-📚 Continuous Learning
-
+  🎓 <strong>MBA Business Analytics Student</strong>
+  &nbsp; • &nbsp;
+  📊 <strong>Data Analysis</strong>
+  &nbsp; • &nbsp;
+  📈 <strong>Data Visualization</strong>
+  &nbsp; • &nbsp;
+  🗄️ <strong>SQL</strong>
+  &nbsp; • &nbsp;
+  🐍 <strong>Python</strong>
+  &nbsp; • &nbsp;
+  💡 <strong>Business Intelligence</strong>
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                  ANALYTICS TOOLS                          -->
-<!-- ========================================================= -->
+<!-- ===================== ANALYTICS TOOLS ==================== -->
 
 <h2 align="center">🛠️ MY ANALYTICS TOOLS</h2>
 
 <p align="center">
-  <i>
-    From raw data to meaningful business insights
-  </i>
+  <i>From raw data to meaningful business insights</i>
 </p>
-
-
-<br>
-
-
-<!-- CUSTOM ANALYTICS GRAPHIC -->
 
 <p align="center">
   <img
     src="./analytics-tools.png"
-    alt="Excel to SQL to Python to Power BI to Tableau Analytics Workflow"
+    alt="Excel → SQL → Python → Power BI → Tableau"
     width="100%"
   />
 </p>
 
-
-<br>
-
-
-<!-- TOOL BADGES -->
-
 <p align="center">
-
-<img
-  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-  alt="Microsoft Excel"
-/>
-
-<img
-  src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
-  alt="SQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
-/>
-
-<img
-  src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-  alt="Pandas"
-/>
-
-<img
-  src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"
-  alt="Power BI"
-/>
-
-<img
-  src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
-  alt="Tableau"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+    alt="Microsoft Excel"
+  />
+  <img
+    src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="SQL"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+    alt="Pandas"
+  />
+  <img
+    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"
+    alt="Power BI"
+  />
+  <img
+    src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+    alt="Tableau"
+  />
 </p>
 
+---
 
-<br>
-
-
-<!-- ========================================================= -->
-<!--                    DATA WORKFLOW                          -->
-<!-- ========================================================= -->
+<!-- ====================== DATA WORKFLOW ==================== -->
 
 <h2 align="center">⚡ MY DATA WORKFLOW</h2>
 
-
 <p align="center">
 
-📥
-<strong>COLLECT</strong>
+📥 <strong>COLLECT</strong>
+&nbsp; → &nbsp;
 
-&nbsp; →
+🧹 <strong>CLEAN</strong>
+&nbsp; → &nbsp;
 
-&nbsp;
+🔎 <strong>ANALYZE</strong>
+&nbsp; → &nbsp;
 
-🧹
-<strong>CLEAN</strong>
+📊 <strong>VISUALIZE</strong>
+&nbsp; → &nbsp;
 
-&nbsp; →
+💡 <strong>INSIGHT</strong>
+&nbsp; → &nbsp;
 
-&nbsp;
-
-🔎
-<strong>ANALYZE</strong>
-
-&nbsp; →
-
-&nbsp;
-
-📊
-<strong>VISUALIZE</strong>
-
-&nbsp; →
-
-&nbsp;
-
-💡
-<strong>INSIGHT</strong>
-
-&nbsp; →
-
-&nbsp;
-
-🎯
-<strong>DECIDE</strong>
+🎯 <strong>DECIDE</strong>
 
 </p>
 
-
-<br>
-
-
 <p align="center">
-
-<strong>
-DATA → INSIGHTS → DECISIONS → IMPACT
-</strong>
-
+  <strong>DATA → INSIGHTS → DECISIONS → IMPACT</strong>
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                  AREAS OF INTEREST                       -->
-<!-- ========================================================= -->
+<!-- ==================== AREAS OF INTEREST =================== -->
 
 <h2 align="center">🎯 AREAS OF INTEREST</h2>
 
-
 <p align="center">
-
-📊 <strong>Data Analysis</strong>
-&nbsp; • &nbsp;
-
-📈 <strong>Data Visualization</strong>
-&nbsp; • &nbsp;
-
-🗄️ <strong>Data Management</strong>
-
+  📊 Data Analysis
+  &nbsp; • &nbsp;
+  📈 Data Visualization
+  &nbsp; • &nbsp;
+  🗄️ Data Management
+  &nbsp; • &nbsp;
+  💡 Business Intelligence
 </p>
 
-
 <p align="center">
-
-💡 <strong>Business Intelligence</strong>
-&nbsp; • &nbsp;
-
-📌 <strong>KPI Analysis</strong>
-&nbsp; • &nbsp;
-
-🎯 <strong>Business Decision Making</strong>
-
+  📌 KPI Analysis
+  &nbsp; • &nbsp;
+  🎯 Business Decision Making
+  &nbsp; • &nbsp;
+  👥 Customer Analytics
+  &nbsp; • &nbsp;
+  📈 Business Performance
 </p>
 
-
 <p align="center">
-
-👥 <strong>Customer Analytics</strong>
-&nbsp; • &nbsp;
-
-📈 <strong>Business Performance</strong>
-&nbsp; • &nbsp;
-
-🔍 <strong>Data-Driven Problem Solving</strong>
-
+  🔍 Data-Driven Problem Solving
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                  ANALYTICS APPROACH                      -->
-<!-- ========================================================= -->
+<!-- =================== ANALYTICS APPROACH ================== -->
 
 <h2 align="center">🔎 MY ANALYTICS APPROACH</h2>
 
-
 <p align="center">
 
-📊
-<strong>DATA</strong>
+📊 <strong>DATA</strong>
+&nbsp; → &nbsp;
 
-&nbsp; →
+🔎 <strong>ANALYSIS</strong>
+&nbsp; → &nbsp;
 
-&nbsp;
+💡 <strong>INSIGHTS</strong>
+&nbsp; → &nbsp;
 
-🔎
-<strong>ANALYSIS</strong>
+🎯 <strong>DECISIONS</strong>
+&nbsp; → &nbsp;
 
-&nbsp; →
-
-&nbsp;
-
-💡
-<strong>INSIGHTS</strong>
-
-&nbsp; →
-
-&nbsp;
-
-🎯
-<strong>DECISIONS</strong>
-
-&nbsp; →
-
-&nbsp;
-
-🚀
-<strong>IMPACT</strong>
+🚀 <strong>IMPACT</strong>
 
 </p>
 
-
 <p align="center">
-  <i>
-    Turning business questions into data-driven insights.
-  </i>
+  <i>Turning business questions into data-driven insights.</i>
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                     PROJECTS                             -->
-<!-- ========================================================= -->
+<!-- ================= PROJECTS & LEARNING =================== -->
 
 <h2 align="center">🚀 PROJECTS & LEARNING</h2>
-
 
 <p align="center">
   <i>
@@ -352,325 +220,195 @@ DATA → INSIGHTS → DECISIONS → IMPACT
   </i>
 </p>
 
+| Area | Focus |
+|---|---|
+| 📊 Business Performance Analysis | Analyzing KPIs, trends and business performance |
+| 📈 Data Visualization | Creating dashboards and visual stories from data |
+| 👥 Customer Analytics | Exploring customer behavior and business patterns |
+| 🗄️ SQL Data Analysis | Querying, filtering and analyzing structured data |
+| 🐍 Python Analytics | Exploring data using Python and analytical libraries |
 
-<br>
+---
 
-
-<p align="center">
-
-📊
-<strong>Business Performance Analysis</strong><br>
-Analyzing KPIs, trends and business performance.
-
-<br><br>
-
-📈
-<strong>Data Visualization</strong><br>
-Creating dashboards and visual stories from data.
-
-<br><br>
-
-👥
-<strong>Customer Analytics</strong><br>
-Exploring customer behavior and business patterns.
-
-<br><br>
-
-🗄️
-<strong>SQL Data Analysis</strong><br>
-Querying, filtering and analyzing structured data.
-
-<br><br>
-
-🐍
-<strong>Python Analytics</strong><br>
-Exploring data using Python and analytical libraries.
-
-</p>
-
-
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                       -->
-<!-- ========================================================= -->
+<!-- ==================== GITHUB ANALYTICS =================== -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-
 <p align="center">
-  <i>
-    My GitHub activity, repositories and development journey
-  </i>
+  <i>My GitHub activity, repositories and development journey</i>
 </p>
 
-
-<br>
-
-
 <!-- GITHUB STATS -->
+
+<h3 align="center">📈 GitHub Statistics</h3>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=MohdAbzan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
     alt="Mohd Abzan GitHub Stats"
+    width="495"
   />
 </p>
 
+<!-- MOST USED LANGUAGES -->
 
-<br>
-
-
-<!-- TOP LANGUAGES -->
-
-<h2 align="center">💻 MOST USED LANGUAGES</h2>
-
+<h3 align="center">💻 Most Used Languages</h3>
 
 <p align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAbzan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
     alt="Mohd Abzan Most Used Languages"
+    width="400"
   />
-
 </p>
 
+<!-- CONTRIBUTION STREAK -->
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION STREAK                     -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔥 CONTRIBUTION STREAK</h2>
-
+<h3 align="center">🔥 Contribution Streak</h3>
 
 <p align="center">
-
   <img
     src="https://streak-stats.demolab.com/?user=MohdAbzan&theme=tokyonight&hide_border=true"
-    alt="Mohd Abzan GitHub Contribution Streak"
+    alt="Mohd Abzan Contribution Streak"
+    width="500"
   />
-
 </p>
 
+<!-- CONTRIBUTION GRAPH -->
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION GRAPH                      -->
-<!-- ========================================================= -->
-
-<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
-
+<h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MohdAbzan&theme=tokyo-night&hide_border=true&area=true"
     alt="Mohd Abzan Contribution Graph"
+    width="95%"
   />
-
 </p>
 
+<!-- CONTRIBUTION SNAKE -->
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--              ANIMATED CONTRIBUTION SNAKE                 -->
-<!-- ========================================================= -->
-
-<h2 align="center">🐍 CONTRIBUTION ACTIVITY</h2>
-
+<h3 align="center">🐍 Contribution Activity</h3>
 
 <p align="center">
-
   <img
     src="https://raw.githubusercontent.com/MohdAbzan/MohdAbzan/output/github-contribution-grid-snake.svg"
     alt="Mohd Abzan Contribution Snake"
+    width="95%"
   />
-
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                     CURRENT FOCUS                         -->
-<!-- ========================================================= -->
+<!-- ====================== CURRENT FOCUS ===================== -->
 
 <h2 align="center">🎯 CURRENT FOCUS</h2>
 
-
 <p align="center">
-
-📚 MBA Business Analytics<br><br>
-
-📊 Business & Data Analysis<br><br>
-
-📈 Data Visualization<br><br>
-
-🗄️ SQL & Data Management<br><br>
-
-🐍 Python for Analytics<br><br>
-
-💡 Business Intelligence<br><br>
-
-🧠 Data-Driven Decision Making
-
+  📚 MBA Business Analytics
+  &nbsp; • &nbsp;
+  📊 Business & Data Analysis
+  &nbsp; • &nbsp;
+  📈 Data Visualization
 </p>
 
+<p align="center">
+  🗄️ SQL & Data Management
+  &nbsp; • &nbsp;
+  🐍 Python for Analytics
+  &nbsp; • &nbsp;
+  💡 Business Intelligence
+</p>
 
-<br><br>
+<p align="center">
+  🧠 Data-Driven Decision Making
+</p>
 
+---
 
-<!-- ========================================================= -->
-<!--                     LEARNING                             -->
-<!-- ========================================================= -->
+<!-- ===================== ALWAYS LEARNING =================== -->
 
 <h2 align="center">📚 ALWAYS LEARNING</h2>
-
 
 <p align="center">
 
 🔹 Business Analytics
-
 &nbsp; • &nbsp;
-
 🔹 Data Visualization
-
 &nbsp; • &nbsp;
-
 🔹 SQL
-
 &nbsp; • &nbsp;
-
 🔹 Python
 
 </p>
 
-
 <p align="center">
 
 🔹 Power BI
-
 &nbsp; • &nbsp;
-
 🔹 Tableau
-
 &nbsp; • &nbsp;
-
 🔹 Business Intelligence
-
 &nbsp; • &nbsp;
-
 🔹 Data-Driven Strategy
 
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                       QUOTE                              -->
-<!-- ========================================================= -->
+<!-- ====================== DATA MINDSET ===================== -->
 
 <h2 align="center">💭 DATA MINDSET</h2>
 
-
 <p align="center">
-
-<i>
-"Without data, you're just another person with an opinion."
-</i>
-
-<br><br>
-
-<strong>— W. Edwards Deming</strong>
-
+  <i>
+    "Without data, you're just another person with an opinion."
+  </i>
 </p>
 
+<p align="center">
+  <strong>— W. Edwards Deming</strong>
+</p>
 
-<br><br>
+---
 
-
-<!-- ========================================================= -->
-<!--                    CONNECT WITH ME                       -->
-<!-- ========================================================= -->
+<!-- ===================== CONNECT WITH ME =================== -->
 
 <h2 align="center">🤝 CONNECT WITH ME</h2>
-
 
 <p align="center">
 
 <a href="https://github.com/MohdAbzan">
-
   <img
     src="https://img.shields.io/badge/GitHub-MohdAbzan-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
-
 </a>
 
-
-&nbsp;&nbsp;
-
-
 <a href="https://mohdabzan.com">
-
   <img
     src="https://img.shields.io/badge/Website-MohdAbzan.com-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"
     alt="Website"
   />
-
 </a>
 
 </p>
 
+---
 
-<br><br>
-
-
-<!-- ========================================================= -->
-<!--                       FINAL MESSAGE                       -->
-<!-- ========================================================= -->
+<!-- ======================== FOOTER ========================= -->
 
 <p align="center">
-
-  <strong>
-    📊 DATA → INSIGHTS → DECISIONS → IMPACT
-  </strong>
-
+  <strong>📊 DATA → INSIGHTS → DECISIONS → IMPACT</strong>
 </p>
 
-
 <p align="center">
-
-  <i>
-    Thanks for visiting my GitHub profile! 🚀
-  </i>
-
+  <i>Thanks for visiting my GitHub profile! 🚀</i>
 </p>
 
-
-<br>
-
-
-<!-- ========================================================= -->
-<!--                         FOOTER                            -->
-<!-- ========================================================= -->
-
 <p align="center">
-
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
     alt="Footer"
   />
-
 </p>
