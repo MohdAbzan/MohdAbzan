@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHAMMED%20ABZAN&fontSize=42&fontColor=38BDF8&fontAlignY=35&animation=fadeIn&desc=MBA%20Business%20Analytics%20Student%20•%20Data%20&%20Tech%20Explorer&descSize=15&descColor=94A3B8" width="100%" />
+
 <div align="center">
 
 # 👋 Hi, I'm Mohammed Abzan
