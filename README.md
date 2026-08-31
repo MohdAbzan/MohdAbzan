@@ -47,21 +47,17 @@
 
 ### 📈 Stats & Metrics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdabzan&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdabzan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdabzan&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+</p>
 
 ---
 
