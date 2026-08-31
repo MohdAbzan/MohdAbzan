@@ -1,97 +1,103 @@
-<!-- ====================================================== -->
-
-<!--                    HERO BANNER                         -->
-
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                    HELLO / INTRO                      -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Mohd Abzan Animated GitHub Banner"/>
+  <img
+    src="assets/hello.gif"
+    width="100%"
+    alt="Hello, I'm Mohd Abzan"
+  />
 </p>
 
-<!-- ====================================================== -->
-
-<!--                    INTRODUCTION                        -->
-
-<!-- ====================================================== -->
-
-<h1 align="center">
+<h2 align="center">
   👋 Hey, I'm Abzan
-</h1>
-
-<h3 align="center">
-  🚀 Mohd Abzan
-</h3>
+</h2>
 
 <p align="center">
-  <i>Turning data into insights, insights into decisions, and decisions into impact.</i>
+  <b>Mohd Abzan</b>
 </p>
 
 <p align="center">
-  📊 Data &nbsp;→&nbsp; 🔎 Analysis &nbsp;→&nbsp; 💡 Insights &nbsp;→&nbsp; 🎯 Decisions &nbsp;→&nbsp; 🚀 Impact
-</p>
-
-<!-- ====================================================== -->
-
-<!--                     TODAY                             -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">📅 TODAY</h2>
-
-<p align="center">
-  <b>31 August 2026</b>
+  📊 Business Analytics &nbsp; • &nbsp;
+  💻 Technology &nbsp; • &nbsp;
+  📈 Data Visualization &nbsp; • &nbsp;
+  🚀 Continuous Learning
 </p>
 
 <p align="center">
-  🌱 Learn &nbsp;•&nbsp; 💻 Build &nbsp;•&nbsp; 📊 Analyze &nbsp;•&nbsp; 🚀 Improve
+  <i>
+    Turning data into insights, insights into decisions,
+    and decisions into impact.
+  </i>
 </p>
 
-<!-- ====================================================== -->
+<p align="center">
+  🔎 Data &nbsp;→&nbsp;
+  🧠 Analysis &nbsp;→&nbsp;
+  💡 Insights &nbsp;→&nbsp;
+  🎯 Decisions &nbsp;→&nbsp;
+  🚀 Impact
+</p>
 
-<!--                     ABOUT ME                          -->
+---
 
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                      ABOUT ME                         -->
+<!-- ===================================================== -->
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-  I'm <b>Mohd Abzan</b>, exploring the world of
-  <b>Business Analytics, Data, Technology & Visualization.</b>
+  I'm <b>Mohd Abzan</b>, an MBA Business Analytics student
+  passionate about data, technology, visualization and
+  data-driven decision making.
 </p>
 
 <p align="center">
-  I enjoy discovering patterns, working with data, creating visual stories,
-  solving problems and continuously improving my analytical skills.
+  I enjoy exploring data, discovering patterns, building dashboards,
+  solving problems and turning information into meaningful insights.
 </p>
 
 <p align="center">
-  🎓 MBA Business Analytics &nbsp; • &nbsp;
-  📊 Data Analytics &nbsp; • &nbsp;
-  📈 Data Visualization &nbsp; • &nbsp;
+  🎓 MBA Business Analytics
+  &nbsp; • &nbsp;
+  📊 Data Analytics
+  &nbsp; • &nbsp;
+  📈 Data Visualization
+  &nbsp; • &nbsp;
   💻 Technology
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                  CURRENT FOCUS                         -->
+<!-- ===================================================== -->
+<!--                   CURRENT FOCUS                       -->
+<!-- ===================================================== -->
 
-<!-- ====================================================== -->
-
-<h2 align="center">⚡ Currently Exploring</h2>
+<h2 align="center">⚡ Currently Focused On</h2>
 
 <p align="center">
-  🔎 Explore Data &nbsp;→&nbsp;
-  🧹 Clean Data &nbsp;→&nbsp;
-  📊 Analyze &nbsp;→&nbsp;
-  📈 Visualize &nbsp;→&nbsp;
-  💡 Discover Insights
+  🧹 Data Cleaning
+  &nbsp; • &nbsp;
+  🔎 Data Exploration
+  &nbsp; • &nbsp;
+  📊 Data Analysis
 </p>
 
-<!-- ====================================================== -->
+<p align="center">
+  📈 Dashboard Development
+  &nbsp; • &nbsp;
+  💡 Business Insights
+  &nbsp; • &nbsp;
+  🎯 Decision Making
+</p>
 
+---
+
+<!-- ===================================================== -->
 <!--                  ANALYTICS TOOLKIT                    -->
-
-<!-- ====================================================== -->
+<!-- ===================================================== -->
 
 <h2 align="center">🛠️ Analytics Toolkit</h2>
 
@@ -102,36 +108,36 @@
 <p align="center">
   <img
     src="assets/analytics-tools.gif"
-    width="95%"
-    alt="Animated Analytics Tools"
+    width="90%"
+    alt="Analytics Tools"
   />
 </p>
 
 <p align="center">
-  🟢 <b>Excel</b>
-  &nbsp;→&nbsp;
+  🟢 <b>Microsoft Excel</b>
+  &nbsp; • &nbsp;
   🔵 <b>SQL</b>
-  &nbsp;→&nbsp;
+  &nbsp; • &nbsp;
   🐍 <b>Python</b>
-  &nbsp;→&nbsp;
+  &nbsp; • &nbsp;
   🟡 <b>Power BI</b>
-  &nbsp;→&nbsp;
+  &nbsp; • &nbsp;
   🟣 <b>Tableau</b>
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                   DATA WORKFLOW                        -->
-
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                   DATA WORKFLOW                       -->
+<!-- ===================================================== -->
 
 <h2 align="center">🔄 My Data Workflow</h2>
 
 <p align="center">
   <img
     src="assets/workflow.gif"
-    width="95%"
-    alt="Animated Data Workflow"
+    width="90%"
+    alt="My Data Workflow"
   />
 </p>
 
@@ -151,113 +157,125 @@
   🎯 Impact
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                 AREAS OF INTEREST                      -->
-
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                 AREAS OF INTEREST                     -->
+<!-- ===================================================== -->
 
 <h2 align="center">🎯 Areas of Interest</h2>
 
 <p align="center">
-  📊 Data Analysis &nbsp; • &nbsp;
-  📈 Data Visualization &nbsp; • &nbsp;
+  📊 Data Analytics
+  &nbsp; • &nbsp;
+  📈 Data Visualization
+  &nbsp; • &nbsp;
+  💡 Business Intelligence
+</p>
+
+<p align="center">
+  📌 KPI Analysis
+  &nbsp; • &nbsp;
+  👥 Customer Analytics
+  &nbsp; • &nbsp;
   🗄️ Data Management
 </p>
 
 <p align="center">
-  💡 Business Intelligence &nbsp; • &nbsp;
-  📌 KPI Analysis &nbsp; • &nbsp;
-  👥 Customer Analytics
-</p>
-
-<p align="center">
-  🔎 Data-Driven Problem Solving &nbsp; • &nbsp;
+  🔎 Data-Driven Problem Solving
+  &nbsp; • &nbsp;
   🎯 Business Decision Making
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                  ANALYTICS MINDSET                     -->
-
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                  ANALYTICS MINDSET                    -->
+<!-- ===================================================== -->
 
 <h2 align="center">🧠 My Analytics Mindset</h2>
 
 <p align="center">
-  📊 <b>Understand the Data</b>
+  📊 <b>Understand</b>
   &nbsp;→&nbsp;
-  🔎 <b>Find the Pattern</b>
+  🔎 <b>Explore</b>
   &nbsp;→&nbsp;
-  💡 <b>Generate Insight</b>
+  💡 <b>Discover</b>
   &nbsp;→&nbsp;
-  🎯 <b>Make Better Decisions</b>
+  🎯 <b>Decide</b>
+  &nbsp;→&nbsp;
+  🚀 <b>Improve</b>
 </p>
 
 <p align="center">
   <i>
-    Good analysis doesn't just explain what happened — it helps determine what to do next.
+    Good analysis doesn't just explain what happened —
+    it helps determine what to do next.
   </i>
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                    DAILY STREAK                        -->
+<!-- ===================================================== -->
+<!--                    DAILY STREAK                       -->
+<!-- ===================================================== -->
 
-<!-- ====================================================== -->
-
-<h2 align="center">🔥 Daily Progress</h2>
-
-<p align="center">
-  🌅 Start &nbsp;→&nbsp;
-  📚 Learn &nbsp;→&nbsp;
-  💻 Build &nbsp;→&nbsp;
-  📊 Analyze &nbsp;→&nbsp;
-  🧪 Experiment &nbsp;→&nbsp;
-  🌙 Reflect
-</p>
+<h2 align="center">🔥 Daily Streak</h2>
 
 <p align="center">
-  🔥 Keep showing up.<br>
-  ⚡ Keep learning.<br>
-  📈 Keep improving.
-</p>
-
-<!-- ====================================================== -->
-
-<!--                 CONTRIBUTION SNAKE                     -->
-
-<!-- ====================================================== -->
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<p align="center">
-  <i>Every contribution is a small step forward.</i>
+  <i>
+    Showing up • Learning • Building • Improving
+  </i>
 </p>
 
 <p align="center">
   <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MohdAbzan&theme=tokyonight&hide_border=true"
+    alt="Mohd Abzan GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  🌱 Learn
+  &nbsp;→&nbsp;
+  💻 Build
+  &nbsp;→&nbsp;
+  🧪 Experiment
+  &nbsp;→&nbsp;
+  📈 Improve
+  &nbsp;→&nbsp;
+  🔥 Repeat
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                  CONTRIBUTION SNAKE                    -->
+<!-- ===================================================== -->
+
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <img
     src="assets/github-snake.gif"
-    width="95%"
+    width="90%"
     alt="GitHub Contribution Snake"
   />
 </p>
 
 <p align="center">
-  🟢 Learn &nbsp;→&nbsp;
-  🟢 Practice &nbsp;→&nbsp;
-  🟢 Build &nbsp;→&nbsp;
-  🟢 Improve &nbsp;→&nbsp;
-  🟢 Repeat
+  <i>
+    Every contribution is a small step toward something bigger.
+  </i>
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                   TECH JOURNEY                         -->
+<!-- ===================================================== -->
+<!--                   TECH JOURNEY                        -->
+<!-- ===================================================== -->
 
-<!-- ====================================================== -->
-
-<h2 align="center">🚀 Tech Journey</h2>
+<h2 align="center">🚀 My Tech Journey</h2>
 
 <p align="center">
   Excel
@@ -270,66 +288,121 @@
   &nbsp;→&nbsp;
   Tableau
   &nbsp;→&nbsp;
-  🚀 More to Explore
+  🚀 What's Next?
 </p>
 
 <p align="center">
-  <i>Always learning. Always experimenting. Always growing.</i>
+  <i>
+    Always learning something new.
+  </i>
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                    LET'S CONNECT                       -->
+<!-- ===================================================== -->
+<!--                    DAILY MINDSET                      -->
+<!-- ===================================================== -->
 
-<!-- ====================================================== -->
+<h2 align="center">🌱 Every Day</h2>
 
-<h2 align="center">🌐 Let's Connect</h2>
+<p align="center">
+  ☀️ Start with curiosity
+  &nbsp;→&nbsp;
+  📚 Learn
+  &nbsp;→&nbsp;
+  💻 Build
+  &nbsp;→&nbsp;
+  🔎 Explore
+  &nbsp;→&nbsp;
+  📊 Analyze
+  &nbsp;→&nbsp;
+  🌙 Reflect
+</p>
+
+<p align="center">
+  <b>
+    🔥 One day • One improvement • One step forward
+  </b>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                    PORTFOLIO                          -->
+<!-- ===================================================== -->
+
+<h2 align="center">🌐 My Portfolio</h2>
+
+<p align="center">
+  <a href="https://mohdabzan.com">
+    <img
+      src="https://img.shields.io/badge/Visit%20My%20Website-mohdabzan.com-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Mohd Abzan Portfolio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>
+    Explore my projects, skills, work and professional journey.
+  </i>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                     GITHUB                            -->
+<!-- ===================================================== -->
+
+<h2 align="center">💻 GitHub</h2>
 
 <p align="center">
   <a href="https://github.com/MohdAbzan">
     <img
       src="https://img.shields.io/badge/GitHub-MohdAbzan-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
+      alt="GitHub Profile"
     />
   </a>
 </p>
 
-<!-- ====================================================== -->
+---
 
-<!--                       QUOTE                            -->
-
-<!-- ====================================================== -->
-
-<p align="center">
-  🚀 <b>Learn.</b>
-  &nbsp; 📊 <b>Analyze.</b>
-  &nbsp; 💡 <b>Understand.</b>
-  &nbsp; 🎯 <b>Decide.</b>
-  &nbsp; 🔥 <b>Repeat.</b>
-</p>
-
-<!-- ====================================================== -->
-
-<!--                  FINAL BANNER                          -->
-
-<!-- ====================================================== -->
+<!-- ===================================================== -->
+<!--                    FINAL MESSAGE                      -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img
-    src="assets/banner-end.gif"
-    width="80%"
-    alt="Keep Learning Keep Building"
+    src="assets/thank-you.gif"
+    width="100%"
+    alt="Thank You for Visiting"
   />
 </p>
 
 <h3 align="center">
-  ✨ Thanks for visiting my profile ✨
+  ✨ Thanks for Visiting My GitHub ✨
 </h3>
 
 <p align="center">
-  <i>Stay curious. Keep learning. Never stop building.</i>
+  👀 Explore
+  &nbsp; • &nbsp;
+  💡 Learn
+  &nbsp; • &nbsp;
+  🛠️ Build
+  &nbsp; • &nbsp;
+  📊 Analyze
+  &nbsp; • &nbsp;
+  🚀 Grow
 </p>
 
 <p align="center">
-  <b>💙 DATA → INSIGHTS → DECISIONS → IMPACT 🚀</b>
+  <i>
+    Stay curious. Keep learning. Never stop building.
+  </i>
+</p>
+
+<p align="center">
+  <b>
+    💙 DATA → INSIGHTS → DECISIONS → IMPACT 🚀
+  </b>
 </p>
