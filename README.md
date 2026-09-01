@@ -10,9 +10,14 @@
   />
 </p>
 
-<h2 align="center">
-  👋 Hey, I'm Abzan
-</h2>
+<p align="center">
+  <a href="https://github.com/MohdAbzan">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%91%8B+HELLO%2C+I'M+ABZAN;%E2%9C%A8+WELCOME+TO+MY+GITHUB;%F0%9F%9A%80+DATA+%E2%86%92+INSIGHTS+%E2%86%92+IMPACT"
+      alt="Hello, I'm Abzan"
+    />
+  </a>
+</p>
 
 <p align="center">
   <b>Mohd Abzan</b>
